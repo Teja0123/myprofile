@@ -12,7 +12,7 @@ const HeroPic = () => {
       className=" h-full flex items-center justify-center "
     >
       <img
-        src='/public/mypho-removebg-preview.png'
+        src='/mypho-removebg-preview.png'
         alt="teja"
         className="max-h-[405px] w-auto"
       />

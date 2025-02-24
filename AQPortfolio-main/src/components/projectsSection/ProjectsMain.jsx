@@ -9,28 +9,28 @@ export  const projects = [
     year: "July 2024",
      
     align: "right",
-    image: "/public/website-img-1.png",
+    image: "/website-img-1.png",
     link: "https://teja-resumebuilder.netlify.app",
   },
   {
     name: "Notify Nation",
     year: "oct 2024",
     align: "left",
-    image: "/public/website-img-3.2.jpg",
+    image: "/website-img-3.2.jpg",
     link: "#",
   },
   {
     name: "Food Wastage App",
     // year: "Jan2023",
     align: "right",
-    image: "/public/website-img-3.1.jpg",
+    image: "/website-img-3.1.jpg",
     link: "#",
   },
   {
     name: "Netflex Clone",
     // year: "May2024",
     align: "left",
-    image: "/public/website-img-4.webp",
+    image: "/website-img-4.webp",
     link: "#",
   },
 ];
